@@ -1,0 +1,61 @@
+{
+  "workbench.colorTheme": "Min Dark",
+  "workbench.iconTheme": "symbols",
+  "editor.fontFamily": "Jetbrains Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 12,
+  "editor.rulers": [80, 120],
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.renderLineHighlight": "gutter",
+  "editor.fontLigatures": false,
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "breadcrumbs.enabled": false,
+  "workbench.tree.indent": 18,
+  "editor.guides.bracketPairs": true,
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset"
+  },
+  "apc.stylesheet": {
+    ".title-label > h2": "display: none"
+  },
+  "apc.listRow": {
+    "height": 24
+  },
+  "editor.formatOnType": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "onFocusChange",
+  "vs-code-prettier-eslint.prettierLast": false,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "git.confirmSync": false,
+  "github.copilot.advanced": {
+    "authProvider": "github"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmPasteNative": false,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "editor.cursorBlinking": "smooth",
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "editor.minimap.autohide": true,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "workbench.reduceMotion": "off",
+  "terminal.integrated.smoothScrolling": true,
+  "explorer.confirmDelete": false,
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+  "github.copilot.chat.testGeneration.instructions": []
+}
